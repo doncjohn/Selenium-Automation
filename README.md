@@ -1,2 +1,2 @@
-# SELENIUM-PROJECTS
-PYTHON SELENIUM
+# Selenium Automation
+Selenium Automation Python Projects
